@@ -6,7 +6,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"Build script not specified\""
+    "build": "echo \"node app.js\""
   },
   "author": "",
   "license": "ISC",
